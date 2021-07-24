@@ -1,6 +1,6 @@
-# shopify
+# [WIP] Shopify
 
-A wrapper of the shopify APIs to make them easier to work with in Flutter. This includes efficient and type-safe parsing.
+A wrapper of the shopify StoreFront APIs to make them easier to work with in Flutter. This includes efficient and type-safe parsing.
 
 ## Getting Started
 
